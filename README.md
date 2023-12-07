@@ -1,2 +1,2 @@
 # packetAnalysis
-packet analizer for attack detection
+Learning packet analyzers for attack detection my local machine.

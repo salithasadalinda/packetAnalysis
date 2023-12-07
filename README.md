@@ -1,2 +1,2 @@
 # packetAnalysis
-Learning packet analyzers for attack detection my local machine.
+I am learning packet analyzers for attack detection on my local machine.
